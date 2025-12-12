@@ -3,13 +3,13 @@
 
 A simple command-line number guessing game where the player tries to guess a randomly generated number. This project was written in **Java** using the **JV Android IDE**.
 
-## 🎮 How the Game Works
+## How the Game Works
 - The computer randomly selects a number.
 - The user enters guesses.
 - The program gives hints until the correct number is found.
 - It shows how many attempts the player used.
 
-## 🛠️ File Structure
+## File Structure
 The project contains:
 
 - `NewfileJ.java` — Main Java source file
@@ -27,7 +27,7 @@ The project contains:
 2. Import or open **NewfileJ.java**.
 3. Tap **Run**.
 
-## 🧠 Concepts Used
+## Concepts Used
 - Random number generation  
 - Loops  
 - Conditionals  
